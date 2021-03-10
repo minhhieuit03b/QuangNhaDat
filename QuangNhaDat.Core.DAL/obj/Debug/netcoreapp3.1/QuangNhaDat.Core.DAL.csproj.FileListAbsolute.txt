@@ -1,0 +1,9 @@
+D:\QuangNhaDat\QuangNhaDat.Core.DAL\obj\Debug\netcoreapp3.1\QuangNhaDat.Core.DAL.AssemblyInfoInputs.cache
+D:\QuangNhaDat\QuangNhaDat.Core.DAL\obj\Debug\netcoreapp3.1\QuangNhaDat.Core.DAL.AssemblyInfo.cs
+D:\QuangNhaDat\QuangNhaDat.Core.DAL\obj\Debug\netcoreapp3.1\QuangNhaDat.Core.DAL.csproj.CoreCompileInputs.cache
+D:\QuangNhaDat\QuangNhaDat.Core.DAL\bin\Debug\netcoreapp3.1\QuangNhaDat.Core.DAL.deps.json
+D:\QuangNhaDat\QuangNhaDat.Core.DAL\bin\Debug\netcoreapp3.1\QuangNhaDat.Core.DAL.dll
+D:\QuangNhaDat\QuangNhaDat.Core.DAL\bin\Debug\netcoreapp3.1\QuangNhaDat.Core.DAL.pdb
+D:\QuangNhaDat\QuangNhaDat.Core.DAL\obj\Debug\netcoreapp3.1\QuangNhaDat.Core.DAL.dll
+D:\QuangNhaDat\QuangNhaDat.Core.DAL\obj\Debug\netcoreapp3.1\QuangNhaDat.Core.DAL.pdb
+D:\QuangNhaDat\QuangNhaDat.Core.DAL\obj\Debug\netcoreapp3.1\QuangNhaDat.Core.DAL.csprojAssemblyReference.cache

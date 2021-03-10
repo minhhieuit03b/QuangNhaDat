@@ -1,0 +1,9 @@
+D:\QuangNhaDat\QuangNhaDat.Core.Common\bin\Debug\netcoreapp3.1\QuangNhaDat.Core.Common.deps.json
+D:\QuangNhaDat\QuangNhaDat.Core.Common\bin\Debug\netcoreapp3.1\QuangNhaDat.Core.Common.dll
+D:\QuangNhaDat\QuangNhaDat.Core.Common\bin\Debug\netcoreapp3.1\QuangNhaDat.Core.Common.pdb
+D:\QuangNhaDat\QuangNhaDat.Core.Common\obj\Debug\netcoreapp3.1\QuangNhaDat.Core.Common.AssemblyInfoInputs.cache
+D:\QuangNhaDat\QuangNhaDat.Core.Common\obj\Debug\netcoreapp3.1\QuangNhaDat.Core.Common.AssemblyInfo.cs
+D:\QuangNhaDat\QuangNhaDat.Core.Common\obj\Debug\netcoreapp3.1\QuangNhaDat.Core.Common.csproj.CoreCompileInputs.cache
+D:\QuangNhaDat\QuangNhaDat.Core.Common\obj\Debug\netcoreapp3.1\QuangNhaDat.Core.Common.dll
+D:\QuangNhaDat\QuangNhaDat.Core.Common\obj\Debug\netcoreapp3.1\QuangNhaDat.Core.Common.pdb
+D:\QuangNhaDat\QuangNhaDat.Core.Common\obj\Debug\netcoreapp3.1\QuangNhaDat.Core.Common.csprojAssemblyReference.cache

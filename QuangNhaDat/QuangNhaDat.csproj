@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\QuangNhaDat.Core.Common\QuangNhaDat.Core.Common.csproj" />
+    <ProjectReference Include="..\QuangNhaDat.Core.DAL\QuangNhaDat.Core.DAL.csproj" />
+    <ProjectReference Include="..\QuangNhaDat.Main.Domain\QuangNhaDat.Main.Domain.csproj" />
+    <ProjectReference Include="..\QuangNhaDat.Main.Repository\QuangNhaDat.Main.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

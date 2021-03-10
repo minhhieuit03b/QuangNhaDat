@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "QuangNhaDat.Main.Domain/1.0.0": {
+        "dependencies": {
+          "QuangNhaDat.Core.Common": "1.0.0"
+        },
+        "runtime": {
+          "QuangNhaDat.Main.Domain.dll": {}
+        }
+      },
+      "QuangNhaDat.Core.Common/1.0.0": {
+        "runtime": {
+          "QuangNhaDat.Core.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuangNhaDat.Main.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuangNhaDat.Core.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

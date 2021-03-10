@@ -1,0 +1,321 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\QuangNhaDat\\QuangNhaDat\\QuangNhaDat.csproj": {}
+  },
+  "projects": {
+    "D:\\QuangNhaDat\\QuangNhaDat.Core.Common\\QuangNhaDat.Core.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\QuangNhaDat\\QuangNhaDat.Core.Common\\QuangNhaDat.Core.Common.csproj",
+        "projectName": "QuangNhaDat.Core.Common",
+        "projectPath": "D:\\QuangNhaDat\\QuangNhaDat.Core.Common\\QuangNhaDat.Core.Common.csproj",
+        "packagesPath": "C:\\Users\\MTGR\\.nuget\\packages\\",
+        "outputPath": "D:\\QuangNhaDat\\QuangNhaDat.Core.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MTGR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\QuangNhaDat\\QuangNhaDat.Core.DAL\\QuangNhaDat.Core.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\QuangNhaDat\\QuangNhaDat.Core.DAL\\QuangNhaDat.Core.DAL.csproj",
+        "projectName": "QuangNhaDat.Core.DAL",
+        "projectPath": "D:\\QuangNhaDat\\QuangNhaDat.Core.DAL\\QuangNhaDat.Core.DAL.csproj",
+        "packagesPath": "C:\\Users\\MTGR\\.nuget\\packages\\",
+        "outputPath": "D:\\QuangNhaDat\\QuangNhaDat.Core.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MTGR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\QuangNhaDat\\QuangNhaDat.Main.Domain\\QuangNhaDat.Main.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\QuangNhaDat\\QuangNhaDat.Main.Domain\\QuangNhaDat.Main.Domain.csproj",
+        "projectName": "QuangNhaDat.Main.Domain",
+        "projectPath": "D:\\QuangNhaDat\\QuangNhaDat.Main.Domain\\QuangNhaDat.Main.Domain.csproj",
+        "packagesPath": "C:\\Users\\MTGR\\.nuget\\packages\\",
+        "outputPath": "D:\\QuangNhaDat\\QuangNhaDat.Main.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MTGR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\QuangNhaDat\\QuangNhaDat.Core.Common\\QuangNhaDat.Core.Common.csproj": {
+                "projectPath": "D:\\QuangNhaDat\\QuangNhaDat.Core.Common\\QuangNhaDat.Core.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\QuangNhaDat\\QuangNhaDat.Main.Repository\\QuangNhaDat.Main.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\QuangNhaDat\\QuangNhaDat.Main.Repository\\QuangNhaDat.Main.Repository.csproj",
+        "projectName": "QuangNhaDat.Main.Repository",
+        "projectPath": "D:\\QuangNhaDat\\QuangNhaDat.Main.Repository\\QuangNhaDat.Main.Repository.csproj",
+        "packagesPath": "C:\\Users\\MTGR\\.nuget\\packages\\",
+        "outputPath": "D:\\QuangNhaDat\\QuangNhaDat.Main.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MTGR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\QuangNhaDat\\QuangNhaDat.Core.DAL\\QuangNhaDat.Core.DAL.csproj": {
+                "projectPath": "D:\\QuangNhaDat\\QuangNhaDat.Core.DAL\\QuangNhaDat.Core.DAL.csproj"
+              },
+              "D:\\QuangNhaDat\\QuangNhaDat.Main.Domain\\QuangNhaDat.Main.Domain.csproj": {
+                "projectPath": "D:\\QuangNhaDat\\QuangNhaDat.Main.Domain\\QuangNhaDat.Main.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\QuangNhaDat\\QuangNhaDat\\QuangNhaDat.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\QuangNhaDat\\QuangNhaDat\\QuangNhaDat.csproj",
+        "projectName": "QuangNhaDat",
+        "projectPath": "D:\\QuangNhaDat\\QuangNhaDat\\QuangNhaDat.csproj",
+        "packagesPath": "C:\\Users\\MTGR\\.nuget\\packages\\",
+        "outputPath": "D:\\QuangNhaDat\\QuangNhaDat\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MTGR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\QuangNhaDat\\QuangNhaDat.Core.Common\\QuangNhaDat.Core.Common.csproj": {
+                "projectPath": "D:\\QuangNhaDat\\QuangNhaDat.Core.Common\\QuangNhaDat.Core.Common.csproj"
+              },
+              "D:\\QuangNhaDat\\QuangNhaDat.Core.DAL\\QuangNhaDat.Core.DAL.csproj": {
+                "projectPath": "D:\\QuangNhaDat\\QuangNhaDat.Core.DAL\\QuangNhaDat.Core.DAL.csproj"
+              },
+              "D:\\QuangNhaDat\\QuangNhaDat.Main.Domain\\QuangNhaDat.Main.Domain.csproj": {
+                "projectPath": "D:\\QuangNhaDat\\QuangNhaDat.Main.Domain\\QuangNhaDat.Main.Domain.csproj"
+              },
+              "D:\\QuangNhaDat\\QuangNhaDat.Main.Repository\\QuangNhaDat.Main.Repository.csproj": {
+                "projectPath": "D:\\QuangNhaDat\\QuangNhaDat.Main.Repository\\QuangNhaDat.Main.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

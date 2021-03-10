@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.78" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\QuangNhaDat.Core.DAL\QuangNhaDat.Core.DAL.csproj" />
+    <ProjectReference Include="..\QuangNhaDat.Main.Domain\QuangNhaDat.Main.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

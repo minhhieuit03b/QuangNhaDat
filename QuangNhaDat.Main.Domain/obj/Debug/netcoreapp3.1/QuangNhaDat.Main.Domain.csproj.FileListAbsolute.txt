@@ -1,0 +1,12 @@
+D:\QuangNhaDat\QuangNhaDat.Main.Domain\obj\Debug\netcoreapp3.1\QuangNhaDat.Main.Domain.csprojAssemblyReference.cache
+D:\QuangNhaDat\QuangNhaDat.Main.Domain\obj\Debug\netcoreapp3.1\QuangNhaDat.Main.Domain.AssemblyInfoInputs.cache
+D:\QuangNhaDat\QuangNhaDat.Main.Domain\obj\Debug\netcoreapp3.1\QuangNhaDat.Main.Domain.AssemblyInfo.cs
+D:\QuangNhaDat\QuangNhaDat.Main.Domain\obj\Debug\netcoreapp3.1\QuangNhaDat.Main.Domain.csproj.CoreCompileInputs.cache
+D:\QuangNhaDat\QuangNhaDat.Main.Domain\bin\Debug\netcoreapp3.1\QuangNhaDat.Main.Domain.deps.json
+D:\QuangNhaDat\QuangNhaDat.Main.Domain\bin\Debug\netcoreapp3.1\QuangNhaDat.Main.Domain.dll
+D:\QuangNhaDat\QuangNhaDat.Main.Domain\bin\Debug\netcoreapp3.1\QuangNhaDat.Main.Domain.pdb
+D:\QuangNhaDat\QuangNhaDat.Main.Domain\bin\Debug\netcoreapp3.1\QuangNhaDat.Core.Common.dll
+D:\QuangNhaDat\QuangNhaDat.Main.Domain\bin\Debug\netcoreapp3.1\QuangNhaDat.Core.Common.pdb
+D:\QuangNhaDat\QuangNhaDat.Main.Domain\obj\Debug\netcoreapp3.1\QuangNhaDat.Main.Domain.csproj.CopyComplete
+D:\QuangNhaDat\QuangNhaDat.Main.Domain\obj\Debug\netcoreapp3.1\QuangNhaDat.Main.Domain.dll
+D:\QuangNhaDat\QuangNhaDat.Main.Domain\obj\Debug\netcoreapp3.1\QuangNhaDat.Main.Domain.pdb
